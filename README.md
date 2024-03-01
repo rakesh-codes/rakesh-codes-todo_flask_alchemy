@@ -69,5 +69,7 @@ We welcome contributions from the community! If you have any ideas for improveme
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-![Todo App]((https://github.com/rakesh-codes/todo_flask_alchemy/assets/132572472/cb31a49d-c1b5-414b-9ebc-0618fca40ef5)
+![Todo App](image_link)
+
+![image](https://github.com/rakesh-codes/todo_flask_alchemy/assets/132572472/35dc8e15-0390-4c7f-8720-64cb59353c88)
 
